@@ -1,0 +1,13 @@
+pending input
+#connect unknown
+#connect SRI
+READ FILE FROM NETWRK
+##logout
+#escape !
+#logout
+!unknown
+!logout
+input after logout
+!connect UTAH
+status request
+!logout
